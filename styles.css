@@ -26,8 +26,9 @@ a:hover {
 .main-header {
   background-color: BLACK;
   padding: 20px 7px;
-  position: sticky;
+  position: fixed;	
   top: 0;
+	width:100vw;
   z-index: 999;
   
 }
